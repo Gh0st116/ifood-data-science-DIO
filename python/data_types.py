@@ -1,0 +1,5 @@
+print(3 * 4 + 100)
+print(0.3 + 1 + 0.05)
+print(True)
+print(False)
+print("Python")
